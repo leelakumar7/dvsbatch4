@@ -1,0 +1,8 @@
+organization=java-organization-app
+projectKey=java-organization-app_1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53015
+branch=release
+dashboardUrl=https://sonarcloud.io/dashboard?id=java-organization-app_1&branch=release&resolved=false
+ceTaskId=AY3lcEl5wDtie35uEiIr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY3lcEl5wDtie35uEiIr
